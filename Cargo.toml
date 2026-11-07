@@ -3,8 +3,6 @@ name = "sigmaos_dust"
 version = "0.1.0"
 edition = "2021"
 
-[dependencies]
-
 [lib]
 name = "sigmaos_dust"
 path = "src/lib.rs"
